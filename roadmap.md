@@ -2,23 +2,27 @@
 
 The whole roadmap will be hard to achieve without our premined coins.
 
-Aug 2017 
+Premine distribution: 
+- 40,000,000 = available for sale on exchanges, the profit will be used for (70%) development, (20%) marketing and (10%) as an incentives for creators/developers.
+- 14,000,000 = bounties, airdrops and rewards (bounties, rewards and marketing campaigns will start at Q4 2017)
+- 6,000,000 = for creators/developers			
+
+
+Q3 2017
+- First release of Gold Cryptocurrency with Windowns and Linux wallets (completed)
+- GoldCryptocurrency.org + ExploreBlocks.Gold (completed)
+- 4+ dedicated, full blockchain nodes that runs 24/7 (completed)
 - GOLDC will be available on exchange/s
-- will be added on Coinmarketcap.com
-- development for our very own Gold Cryptocurrency exchange (expected development-time 70 days)
-- target exchanges: GOLDC/USD, GOLDC/BTC, GOLDC/Altcoin_with_potential
-- features: GOLDC rewards, withdraw USD with Paypal, deposit USD with 3+ payment processing systems
+- GOLDC will be added on Coinmarketcap.com
+- GOLDC main forum and message board
+- GOLDC MacOS and Androind wallets
 
-Sept 2017
-- update and redesign current website (https://goldcryptocurrency.org) with forum and other features
-- development for Gold Cryptocurrency exchange still ongoing
+Q4 2017
+- Development for our own Gold Cryptocurrency exchange
+	- target exchanges: GOLDC/USD, GOLDC/BTC, GOLDC/Altcoin_with_potential
+	- features: GOLDC rewards, withdraw USD with Paypal, deposit USD with 3+ payment processing systems
+- agressive marketing campaigns
+- Development for our second blockchain application (details will be made public once 70% of completion)
 
-Oct 2017
-- official announcement on cryptocurrency forums with whitepaper and other useful information
-- Gold Cryptocurrency exchange will be released
 
-Nov 2017
-- agressive marketing using the funds from premined coins
-- development for our first GOLDC application
-
-This roadmap (and this website in general) will be updated regularly. Please stay tuned.
+This roadmap is not final and  will be updated regularly. Please stay tuned.
