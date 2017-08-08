@@ -10,7 +10,7 @@ Premine distribution:
 
 Q3 2017
 - First release of Gold Cryptocurrency with Windowns and Linux wallets (completed)
-- GoldCryptocurrency.org + ExploreBlocks.Gold (completed)
+- [GoldCryptocurrency.org](http://goldcryptocurrency.org) + [ExploreBlocks.gold](http://exploreblocks.gold) (completed)
 - 4+ dedicated, full blockchain nodes that runs 24/7 (completed)
 - GOLDC will be available on exchange/s
 - GOLDC will be added on Coinmarketcap.com
