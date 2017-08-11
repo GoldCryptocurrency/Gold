@@ -3,10 +3,10 @@
 The whole roadmap will be hard to achieve without our premined coins.
 
 Premine distribution:
-5,000,000 = ICO (target: 20 BTC, funds will be used to pay exchanges, servers, maintenance, etc.)
-45,000,000 = available for sale on exchanges, the funds will be used for (70%) development, (20%) marketing and (10%) as an incentives for creators/developers.
-4,000,000 = bounties, airdrops and rewards
-6,000,000 = for creators/developers
+- 5,000,000 = ICO (target: 20 BTC, funds will be used to pay exchanges, servers, maintenance, etc.)
+- 45,000,000 = available for sale on exchanges, the funds will be used for (70%) development, (20%) marketing and (10%) as an incentives for creators/developers.
+- 4,000,000 = bounties, airdrops and rewards
+- 6,000,000 = for creators/developers
 
 
 Q3 2017
