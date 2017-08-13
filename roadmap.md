@@ -13,13 +13,13 @@ Q3 2017
 - First release of Gold Cryptocurrency with Windowns and Linux wallets (completed)
 - [GoldCryptocurrency.org](http://goldcryptocurrency.org) + [ExploreBlocks.gold](http://exploreblocks.gold) (completed)
 - 4+ dedicated, full blockchain nodes that runs 24/7 (completed)
-- Online web wallet vesion 1 (completed)
+- Online secure wallet v1 [MyWallet.gold](https://mywallet.gold) (completed)
 - Announcement on Bitcointalk.org (completed)
 - GOLDC will be available on CoinExchane.io
 - GOLDC will be added on Coinmarketcap.com
 - GOLDC main forum and message board
 - GOLDC MacOS and Androind wallets
-- Online web wallet version 2
+- Online secure wallet v2
 - Official gold mining pool without fees
 
 Q4 2017
