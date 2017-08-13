@@ -12,7 +12,7 @@ Premine distribution:
 Q3 2017
 - First release of Gold Cryptocurrency with Windowns and Linux wallets (completed)
 - Official website: [GoldCryptocurrency.org](http://goldcryptocurrency.org) (completed)
-- Blockchain explorer: [ExploreBlocks.gold](http://exploreblocks.gold)
+- Blockchain explorer: [ExploreBlocks.gold](http://exploreblocks.gold) (completed)
 - 4+ dedicated, full blockchain nodes that runs 24/7 (completed)
 - Online secure wallet v1 [MyWallet.gold](https://mywallet.gold) (completed)
 - Announcement on Bitcointalk.org (completed)
