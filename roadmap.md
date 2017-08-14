@@ -43,8 +43,6 @@ Q4 2017
 
 Titan Exchange is a crypto currency exchange with a high performance trading engine and safety which can be trusted and enjoyed by users. Additionally we want to move the crypto currency exchange technology forward by providing support and add new features. We are helping people to build easy their own exchange around the world.
 
-### Features:
-
 ### Features
 
 * Designed as high performance crypto currency exchange.
