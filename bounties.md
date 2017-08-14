@@ -1,4 +1,4 @@
-## All the information about bounties for Gold Cryptocurrency will be found here. 
+## All the information for Gold bounties will be found here. 
 
 Total bounty: 500,000 GOLDC
 
