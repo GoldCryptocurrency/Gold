@@ -15,13 +15,17 @@ Q3 2017
 3. Blockchain explorer: [exploreblocks.gold](http://exploreblocks.gold) (completed)
 4. 4+ dedicated, full blockchain nodes that runs 24/7 (completed)
 5. Online secure wallet v1 [mywallet.gold](https://mywallet.gold) (completed)
+	
 	Features:
+
 	- Manual User Reserve
 	- QR Codes use a local generation URL
 	- Multilanguage support for over 90% of text - Currently supported languages include English, Greek, Mandarin, Hindi, Italian, Portuguese, Spanish, and Tagalog.
 	- API - Currently we do not support sending funds or adding aditional addresses via API. View Documentation: https://github.com/johnathanmartin/piWallet/wiki/API
 	- Google 2 Factor Auth
+	
 	Planned Features:
+	
 	- QR Codes for Addresses
 	- Have QR Codes open in lightbox instead of new tab
 	- Improved Bootstrap Theme
