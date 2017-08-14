@@ -25,7 +25,7 @@ Premine distribution:
 	- API - Currently we do not support sending funds or adding aditional addresses via API. View Documentation: https://github.com/johnathanmartin/piWallet/wiki/API
 	- Google 2 Factor Auth
 	
-	Planned Features (v2):
+	Upcoming Features (v2):
 
 	- QR Codes for Addresses
 	- Have QR Codes open in lightbox instead of new tab
