@@ -10,25 +10,36 @@ Premine distribution:
 
 
 Q3 2017
-- First release of Gold Cryptocurrency with Windowns and Linux wallets (completed)
-- Official website: [goldcryptocurrency.org](http://goldcryptocurrency.org) (completed)
-- Blockchain explorer: [exploreblocks.gold](http://exploreblocks.gold) (completed)
-- 4+ dedicated, full blockchain nodes that runs 24/7 (completed)
-- Online secure wallet v1 [mywallet.gold](https://mywallet.gold) (completed)
-- Announcement on Bitcointalk.org (completed)
-- GOLDC will be available on CoinExchane.io
-- GOLDC will be added on Coinmarketcap.com
-- GOLDC main forum and message board
-- GOLDC MacOS and Androind wallets
-- Online secure wallet v2
-- Official gold mining pool without fees
+1. First release of Gold Cryptocurrency with Windowns and Linux wallets (completed)
+2. Official website: [goldcryptocurrency.org](http://goldcryptocurrency.org) (completed)
+3. Blockchain explorer: [exploreblocks.gold](http://exploreblocks.gold) (completed)
+4. 4+ dedicated, full blockchain nodes that runs 24/7 (completed)
+5. Online secure wallet v1 [mywallet.gold](https://mywallet.gold) (completed)
+	Features:
+	- Manual User Reserve
+	- QR Codes use a local generation URL
+	- Multilanguage support for over 90% of text - Currently supported languages include English, Greek, Mandarin, Hindi, Italian, Portuguese, Spanish, and Tagalog.
+	- API - Currently we do not support sending funds or adding aditional addresses via API. View Documentation: https://github.com/johnathanmartin/piWallet/wiki/API
+	- Google 2 Factor Auth
+	Planned Features:
+	- QR Codes for Addresses
+	- Have QR Codes open in lightbox instead of new tab
+	- Improved Bootstrap Theme
+	- Control of Private Keys
+6. Announcement on Bitcointalk.org (completed)
+7. GOLDC will be available on CoinExchane.io
+8. GOLDC will be added on Coinmarketcap.com
+9. GOLDC main forum and message board
+10. GOLDC MacOS and Androind wallets
+11. Online secure wallet v2
+12. Official gold mining pool without fees
 
 Q4 2017
-- Official Gold Cryptocurrency exchange
+13. Official Gold Cryptocurrency exchange
 	- target exchanges: GOLDC/USD, GOLDC/BTC, GOLDC/Altcoin_with_potential
 	- features: GOLDC rewards, withdraw USD with Paypal, deposit USD with 3+ payment processing systems
-- agressive marketing campaigns
-- Development for our second blockchain application (details will be made public once 70% of completion)
+14. agressive marketing campaigns
+15. Development for our second blockchain application (details will be made public once 70% of completion)
 
 
 This roadmap is not final and  will be updated regularly. Please stay tuned.
