@@ -39,7 +39,7 @@ Q3 2017
 12. Official gold mining pool without fees
 
 Q4 2017
-1. Official Gold Cryptocurrency exchange
+1. Official Gold Cryptocurrency exchange ([Titan.gold](http://titan.gold))
 	- target exchanges: GOLDC/USD, GOLDC/BTC, GOLDC/Altcoin_with_potential
 	- features: GOLDC rewards, withdraw USD with Paypal, deposit USD with 3+ payment processing systems
 2. agressive marketing campaigns
