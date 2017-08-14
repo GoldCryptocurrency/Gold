@@ -59,7 +59,9 @@ Titan Exchange is a crypto currency exchange with a high performance trading eng
 * Highly configurable and extendable.
 * Industry standard security out of box.
 
-2. agressive marketing campaigns
+---
+
+2. Agressive marketing campaigns
 3. Development for our second blockchain application (details will be made public once 70% of completion)
 
 
