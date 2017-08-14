@@ -18,4 +18,4 @@ contact: support@goldcryptocurrency.org
 4. Early developers and designers: 170,000 GOLDC (contact us)
 5. Business integration: 255,000 GOLDC (contact us)
 
-bounties.md will be updated regularly, stay tuned.
+Bounties.md will be updated regularly, stay tuned.
