@@ -24,18 +24,18 @@ Q3 2017
 	- API - Currently we do not support sending funds or adding aditional addresses via API. View Documentation: https://github.com/johnathanmartin/piWallet/wiki/API
 	- Google 2 Factor Auth
 	
-	Planned Features:
+	Planned Features (v2):
 
 	- QR Codes for Addresses
 	- Have QR Codes open in lightbox instead of new tab
 	- Improved Bootstrap Theme
 	- Control of Private Keys
 6. Announcement on Bitcointalk.org (completed)
-7. GOLDC will be available on CoinExchane.io
-8. GOLDC will be added on Coinmarketcap.com
-9. GOLDC main forum and message board
-10. GOLDC MacOS and Androind wallets
-11. Online secure wallet v2
+7. Twitter account: [@InternetofGold](https://twitter.com/InternetofGold) (completed)
+8. GOLDC will be available on CoinExchange.io
+9. GOLDC will be added on Coinmarketcap.com
+10. GOLDC main forum and message board
+11. GOLDC MacOS and Androind wallets
 12. Official gold mining pool without fees
 
 Q4 2017
