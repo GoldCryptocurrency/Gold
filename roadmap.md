@@ -9,7 +9,8 @@ Premine distribution:
 4. 6,000,000 = for creators/developers
 
 
-Q3 2017
+### Q3 2017
+
 1. First release of Gold Cryptocurrency with Windowns and Linux wallets (completed)
 2. Official website: [goldcryptocurrency.org](http://goldcryptocurrency.org) (completed)
 3. Blockchain explorer: [exploreblocks.gold](http://exploreblocks.gold) (completed)
@@ -38,7 +39,7 @@ Q3 2017
 11. GOLDC MacOS and Androind wallets
 12. Official gold mining pool without fees
 
-Q4 2017
+### Q4 2017
 1. ## Titan Gold Exchange ([Titan.gold](http://titan.gold))
 
 Titan Exchange is a crypto currency exchange with a high performance trading engine and safety which can be trusted and enjoyed by users. Additionally we want to move the crypto currency exchange technology forward by providing support and add new features. We are helping people to build easy their own exchange around the world.
