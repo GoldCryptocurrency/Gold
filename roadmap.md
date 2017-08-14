@@ -39,9 +39,28 @@ Q3 2017
 12. Official gold mining pool without fees
 
 Q4 2017
-1. ## Official Gold Cryptocurrency exchange ([Titan.gold](http://titan.gold))
-	- target exchanges: GOLDC/USD, GOLDC/BTC, GOLDC/Altcoin_with_potential
-	- features: GOLDC rewards, withdraw USD with Paypal, deposit USD with 3+ payment processing systems
+1. ## Titan Gold Exchange ([Titan.gold](http://titan.gold))
+
+Titan Exchange is a crypto currency exchange with a high performance trading engine and safety which can be trusted and enjoyed by users. Additionally we want to move the crypto currency exchange technology forward by providing support and add new features. We are helping people to build easy their own exchange around the world.
+
+### Features:
+
+### Features
+
+* Designed as high performance crypto currency exchange.
+* Built-in high performance matching-engine.
+* Built-in [Proof of Solvency](https://iwilcox.me.uk/2014/proving-bitcoin-reserves) Audit.
+* GOLDC rewards, withdraw USD with Paypal, deposit USD with 3+ payment processing systems
+* Built-in ticket system for customer support.
+* Usability and scalibility.
+* Websocket API and high frequency trading support.
+* Support multiple digital currencies (eg. Bitcoin, Litecoin, Dogecoin etc.).
+* Easy customization of payment processing for both fiat and digital currencies.
+* SMS and Google Two-Factor authenticaton.
+* [KYC Verification](http://en.wikipedia.org/wiki/Know_your_customer).
+* Highly configurable and extendable.
+* Industry standard security out of box.
+
 2. agressive marketing campaigns
 3. Development for our second blockchain application (details will be made public once 70% of completion)
 
