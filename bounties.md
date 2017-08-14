@@ -15,7 +15,7 @@ contact: support@goldcryptocurrency.org
 	- more soon..
 
 3. Errand bounties e.g. translators, etc. (to be announced): 50,000 GOLDC
-4. Early developers and designers: 170,000 GOLDC (contact us)
-5. Business integration: 255,000 GOLDC (contact us)
+4. Early developers and designers: 195,000 GOLDC (contact us)
+5. Business integration: 225,000 GOLDC (contact us)
 
 Bounties.md will be updated regularly, stay tuned.
