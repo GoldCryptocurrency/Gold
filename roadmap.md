@@ -25,7 +25,7 @@ Q3 2017
 	- Google 2 Factor Auth
 	
 	Planned Features:
-	
+
 	- QR Codes for Addresses
 	- Have QR Codes open in lightbox instead of new tab
 	- Improved Bootstrap Theme
@@ -39,11 +39,11 @@ Q3 2017
 12. Official gold mining pool without fees
 
 Q4 2017
-13. Official Gold Cryptocurrency exchange
+1. Official Gold Cryptocurrency exchange
 	- target exchanges: GOLDC/USD, GOLDC/BTC, GOLDC/Altcoin_with_potential
 	- features: GOLDC rewards, withdraw USD with Paypal, deposit USD with 3+ payment processing systems
-14. agressive marketing campaigns
-15. Development for our second blockchain application (details will be made public once 70% of completion)
+2. agressive marketing campaigns
+3. Development for our second blockchain application (details will be made public once 70% of completion)
 
 
 This roadmap is not final and  will be updated regularly. Please stay tuned.
