@@ -6,7 +6,7 @@ contact: support@goldcryptocurrency.org
 
 1. Airdrop: 10,000 GOLDC
 
-	- First airdrop: https://goo.gl/forms/eP4zsWu2Zsgi6hTs2 (2,100 GOLDC, available)
+	- First airdrop: https://goo.gl/forms/eP4zsWu2Zsgi6hTs2 (2,100 GOLDC, **available**)
 	
 
 		| GOLDC Address                      | Amount   |
