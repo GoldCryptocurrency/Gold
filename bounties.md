@@ -17,13 +17,14 @@ contact: support@goldcryptocurrency.org
 3. Other bounties: 50,000 GOLDC
 
 	- Mining pools (5,000 GOLDC, available) 
+	
 
 	| GOLDC Address                       | Name            | Amount     |
 	| ----------------------------------- |:---------------:| ----------:|
 	| GVWqQbUEjbCQcV87fGqc4NhZsFbNZXPaCU  | Lpool.name      | 500 GOLDC  |
 	| GLWezHzwAmaSUntps2BHZV6bHtvkJN3vzp  | SteamOctanePool | 500 GOLDC  |
 	| (Reserved)                          | Pickaxe.online  | 500 GOLDC  |
-        | (Reserved)                          | Altminer.net    | 500 GOLDC  |
+	| (Reserved)                          | Altminer.net    | 500 GOLDC  |
 
 
 
