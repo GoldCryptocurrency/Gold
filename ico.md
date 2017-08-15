@@ -8,4 +8,4 @@ How to participate in ICO:
 2. Pay to our Bitcoin address: 17fpn756DqekL5rMujcqffHuZQFGMPkLx6 (minimum is 0.03 BTC)
 3. Fill up this form https://goo.gl/forms/pWmORp2ZMtQCK6X13 with your GOLDC address, BTC address and the amount you paid in BTC.
 
-Please note that this is a manual process, the transaction should be completed within 24 hours.
+Thanks to all who participate in our ICO.
