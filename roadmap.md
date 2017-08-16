@@ -2,11 +2,13 @@
 
 The whole roadmap will be hard to achieve without our premined coins.
 
-Premine distribution:
-1. 1,570,370 = Initial Coin Offering (ICO) (target: 14 BTC, funds will be used to pay exchanges, servers, dedicated nodes, maintenance, etc.)
-2. 51,929,630 = available for sale on exchanges, the funds will be used for (75%) development & maintenance, (15%) marketing and (10%) for core developers.
-3. 500,000 = bounties, airdrops and rewards
-4. 6,000,000 = for creators/developers
+[b]Premine distribution[/b]:
+1. 1,570,370 (2.6%) = Initial Coin Offering (ICO) (target: 14 BTC, funds will be used to pay exchanges, servers, dedicated nodes, maintenance, etc.)
+2. 38,947,222.5 (65%) = **decentralized funds** to reward community's projects, not the core dev's projects
+3. 7,789,444.5 (13%) = marketing (e.g. advertising, press releases, growth hacks, etc.)
+4. 5,192,963 (8.6%) = funds for core devs to create the main projects
+3. 500,000 (0.8%) = bounties, airdrops and rewards
+4. 6,000,000 (10%) = for creators/developers (the only premine for core devs)
 
 
 ### Q3 2017
