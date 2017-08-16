@@ -1,7 +1,7 @@
 1. ICO price: 0.00000900 BTC / 1 GOLDC
 2. Price on exchanges: starts at 0.00002100 BTC / 1 GOLDC
 
-How to participate in ICO:
+**How to participate in ICO:**
 1. Get a wallet and generate a new address
 - Online wallet: https://mywallet.gold (secure and simple)
 - Windows and Linux wallet: https://github.com/GoldCryptocurrency/Gold/releases/tag/v1.0.0
