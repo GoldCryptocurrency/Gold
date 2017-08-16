@@ -2,7 +2,7 @@
 
 The whole roadmap will be hard to achieve without our premined coins.
 
-[b]Premine distribution[/b]:
+**Premine distribution**:
 1. 1,570,370 (2.6%) = Initial Coin Offering (ICO) (target: 14 BTC, funds will be used to pay exchanges, servers, dedicated nodes, maintenance, etc.)
 2. 38,947,222.5 (65%) = **decentralized funds** to reward community's projects, not the core dev's projects
 3. 7,789,444.5 (13%) = marketing (e.g. advertising, press releases, growth hacks, etc.)
@@ -21,16 +21,14 @@ The whole roadmap will be hard to achieve without our premined coins.
 
 Mywallet.gold is a highly secure Gold wallet. Encryption is done in the browser before your Gold private keys are saved on our servers. Our secure online wallet is accessible and free for all and can handle unlimited transactions.
 	
-Features:
-
+**Features**
 - Manual User Reserve
 - QR Codes use a local generation URL
 - Multilanguage support for over 90% of text - Currently supported languages include English, Greek, Mandarin, Hindi, Italian, Portuguese, Spanish, and Tagalog.
 - API - Currently we do not support sending funds or adding aditional addresses via API. View Documentation: https://github.com/johnathanmartin/piWallet/wiki/API
 - Google 2 Factor Auth
 
-Upcoming Features (v2):
-
+**Upcoming Features (v2)**
 - QR Codes for Addresses
 - Have QR Codes open in lightbox instead of new tab
 - Improved Bootstrap Theme
