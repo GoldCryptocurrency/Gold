@@ -33,6 +33,8 @@ Mywallet.gold is a highly secure Gold wallet. Encryption is done in the browser 
 - Have QR Codes open in lightbox instead of new tab
 - Improved Bootstrap Theme
 - Control of Private Keys
+
+---
 	
 6. Announcement on Bitcointalk.org (completed)
 7. Twitter account: [@InternetofGold](https://twitter.com/InternetofGold) (completed)
