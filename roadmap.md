@@ -70,7 +70,7 @@ Titan Exchange is a crypto currency exchange with a high performance trading eng
 2. Agressive marketing campaigns
 3. ## Fund Me That Gold! ([Fundme.gold](http://fundme.gold))
 
-Fundme.gold is Gold's funding platform for creative and techniocal projects that will make Gold a bigger and more robust cryptocurrency. This is where the majority of decentralized funds will be spent and anyone is welcome to get their rewards!
+Fundme.gold is Gold's funding platform for creative and technical projects that will make Gold a bigger and more robust cryptocurrency. This is where the majority of decentralized funds will be spent and anyone is welcome to get their rewards!
 
 Fundme.gold comes with lots of advanced features, with which creator and backer (Gold core) can easily communicate with each other and finish their creative projects within their deadline. Backer can easily pledge money to make the creative project happen within the deadline period.
 
