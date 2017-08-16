@@ -6,13 +6,13 @@ contact: support@goldcryptocurrency.org
 
 1. Airdrop: 10,000 GOLDC
 
-	- First airdrop: https://goo.gl/forms/eP4zsWu2Zsgi6hTs2 (2,100 GOLDC, **available**) ([Info](https://github.com/GoldCryptocurrency/Gold/blob/master/doc/bounties/airdrop1.md))
+	- First airdrop: https://goo.gl/forms/eP4zsWu2Zsgi6hTs2 (2,100 GOLDC, **available**) ([Transactions](https://github.com/GoldCryptocurrency/Gold/blob/master/doc/bounties/airdrop1.md))
 
 	- more soon..
 
 2. Social Network: 20,000 GOLDC
 	
-	- Twitter bounty: https://goo.gl/forms/HiuXgtu9mO2QwO0b2 (8,000 GOLDC, available)
+	- Twitter bounty: https://goo.gl/forms/HiuXgtu9mO2QwO0b2 (8,000 GOLDC, available) ([Transactions](https://github.com/GoldCryptocurrency/Gold/blob/master/doc/bounties/twitter1.md))
 	- more soon..
 
 3. Other bounties: 50,000 GOLDC
