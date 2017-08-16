@@ -12,6 +12,7 @@
 
 
 Update (August 16, 2017 GMT)
+
 Total received: 2.34876 BTC / 156583.912 GOLDC
 
 
