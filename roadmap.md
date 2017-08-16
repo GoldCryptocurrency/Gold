@@ -16,6 +16,8 @@ Premine distribution:
 3. Blockchain explorer: [exploreblocks.gold](http://exploreblocks.gold) (completed)
 4. 4+ dedicated, full blockchain nodes that runs 24/7 (completed)
 5. Online secure wallet v1 [mywallet.gold](https://mywallet.gold) (completed)
+
+Mywallet.gold is a highly secure Gold wallet. Encryption is done in the browser before your Gold private keys are saved on our servers. Our secure online wallet is accessible and free for all and can handle unlimited transactions.
 	
 	Features:
 
@@ -63,7 +65,43 @@ Titan Exchange is a crypto currency exchange with a high performance trading eng
 ---
 
 2. Agressive marketing campaigns
-3. Development for our second blockchain application (details will be made public once 70% of completion)
+3. Fund Me That Gold! ([Fundme.gold](http://fundme.gold))
 
+Fundme.gold is Gold's funding platform for creative and techniocal projects that will make Gold a bigger and more robust cryptocurrency. This is where the majority of decentralized funds will be spent and anyone is welcome to get their rewards!
 
-This roadmap is not final and  will be updated regularly. Please stay tuned.
+Fundme.gold comes with lots of advanced features, with which creator and backer (Gold core) can easily communicate with each other and finish their creative projects within their deadline. Backer can easily pledge money to make the creative project happen within the deadline period.
+
+The application is completely responsive and it comes with both Android and IOS mobile app, which makes it easy for a backer and creator to engage and get upto date with instant notifications.
+
+### Features
+* Voting on Ideas Module
+* Unlimited Categories
+* Post Unlimited Project for Creator
+* Bankers can Pledge Funds as private
+* Statistics Of Projects in Graph
+* Safe Escrow Payments
+* Stripe Payment Gateway 
+* Rewards Management
+* Powerfully Packed with Social Features
+* Sharing Projects on Facebook & Twitter
+* Notification message for Creators & Bankers
+* Video Features in Project page
+* Individual Comments for projects 
+* Wish List Features
+* Project management Module
+* Multiple Currency
+* Listing Fees (to avoid spam)
+* Instant Notification
+* Multi language module
+* Lending tipping point system
+* Dynamic form builder
+* Credit score
+* Message Communication System
+* Regular Update About Projects
+* Unlimited Users
+* Invite friends
+* User Engagement
+* Gold Wallet Module
+* Moderate User Access
+
+The roadmap is still a work-in-progress, we have so many ideas to be put in detail and to be available to the public. Please understand that in order for us to be reach our goals, we need the community to support us!
