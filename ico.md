@@ -11,9 +11,7 @@
 3. Fill up this form https://goo.gl/forms/pWmORp2ZMtQCK6X13 with your GOLDC address, BTC address and the amount you paid in BTC.
 
 
-Update (August 16, 2017 GMT)
-
-Total received: 2.34876 BTC / 156583.912 GOLDC
+Total received: 2.34876 BTC / 156583.912 GOLDC (August 16, 2017 GMT)
 
 
 | GOLDC Address                      | Amount (BTC) | Amount (GOLDC) |
