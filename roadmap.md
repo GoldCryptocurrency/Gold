@@ -19,20 +19,21 @@ Premine distribution:
 
 Mywallet.gold is a highly secure Gold wallet. Encryption is done in the browser before your Gold private keys are saved on our servers. Our secure online wallet is accessible and free for all and can handle unlimited transactions.
 	
-	Features:
+Features:
 
-	- Manual User Reserve
-	- QR Codes use a local generation URL
-	- Multilanguage support for over 90% of text - Currently supported languages include English, Greek, Mandarin, Hindi, Italian, Portuguese, Spanish, and Tagalog.
-	- API - Currently we do not support sending funds or adding aditional addresses via API. View Documentation: https://github.com/johnathanmartin/piWallet/wiki/API
-	- Google 2 Factor Auth
+- Manual User Reserve
+- QR Codes use a local generation URL
+- Multilanguage support for over 90% of text - Currently supported languages include English, Greek, Mandarin, Hindi, Italian, Portuguese, Spanish, and Tagalog.
+- API - Currently we do not support sending funds or adding aditional addresses via API. View Documentation: https://github.com/johnathanmartin/piWallet/wiki/API
+- Google 2 Factor Auth
+
+Upcoming Features (v2):
+
+- QR Codes for Addresses
+- Have QR Codes open in lightbox instead of new tab
+- Improved Bootstrap Theme
+- Control of Private Keys
 	
-	Upcoming Features (v2):
-
-	- QR Codes for Addresses
-	- Have QR Codes open in lightbox instead of new tab
-	- Improved Bootstrap Theme
-	- Control of Private Keys
 6. Announcement on Bitcointalk.org (completed)
 7. Twitter account: [@InternetofGold](https://twitter.com/InternetofGold) (completed)
 8. GOLDC will be available on CoinExchange.io
@@ -65,7 +66,7 @@ Titan Exchange is a crypto currency exchange with a high performance trading eng
 ---
 
 2. Agressive marketing campaigns
-3. Fund Me That Gold! ([Fundme.gold](http://fundme.gold))
+3. ## Fund Me That Gold! ([Fundme.gold](http://fundme.gold))
 
 Fundme.gold is Gold's funding platform for creative and techniocal projects that will make Gold a bigger and more robust cryptocurrency. This is where the majority of decentralized funds will be spent and anyone is welcome to get their rewards!
 
