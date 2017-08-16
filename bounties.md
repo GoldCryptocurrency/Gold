@@ -12,7 +12,7 @@ contact: support@goldcryptocurrency.org
 
 2. Social Network: 20,000 GOLDC
 	
-	- Twitter bounty: https://goo.gl/forms/HiuXgtu9mO2QwO0b2 (8,000 GOLDC, available) ([Transactions](https://github.com/GoldCryptocurrency/Gold/blob/master/doc/bounties/twitter1.md))
+	- Twitter bounty: https://goo.gl/forms/HiuXgtu9mO2QwO0b2 (8,000 GOLDC, **available**) ([Transactions](https://github.com/GoldCryptocurrency/Gold/blob/master/doc/bounties/twitter1.md))
 	- more soon..
 
 3. Other bounties: 50,000 GOLDC
