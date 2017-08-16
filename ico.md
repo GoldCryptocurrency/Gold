@@ -1,7 +1,8 @@
 1. ICO price: 0.00001500 BTC / 1 GOLDC
 
+(available only on Aug 13, 2017 to Aug 27, 2017)
 
-2. Price on exchanges: starts at 0.00002100 BTC / 1 GOLDC 
+2. Price on exchanges: starts at 0.00002100 BTC / 1 GOLDC (available on Aug 29, 2017)
 
 **How to participate in ICO:**
 1. Get a wallet and generate a new address
@@ -11,7 +12,9 @@
 3. Fill up this form https://goo.gl/forms/pWmORp2ZMtQCK6X13 with your GOLDC address, BTC address and the amount you paid in BTC.
 
 
-Total received: 2.34876 BTC / 156583.912 GOLDC (August 16, 2017 GMT)
+Update (August 16, 2017 GMT)
+
+Total received: 2.34876 BTC / 156583.912 GOLDC
 
 
 | GOLDC Address                      | Amount (BTC) | Amount (GOLDC) |
