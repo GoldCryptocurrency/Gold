@@ -112,3 +112,5 @@ Twitter account: [@InternetofGold](https://twitter.com/InternetofGold)
 | GPPJJ1mpX25ehNpTyW54dEGyeFqUqEo*** | 8 GOLDC  |
 | GgTjxuUQxj1sFaoUq9JAoHxrD8ujgm1*** | 8 GOLDC  |
 | Gf2XwzrHTWXQnNzyuksrXim1HscNFfY*** | 8 GOLDC  |
+| GW82UNXuVZCzSzzGzQ295eMPQbfUkyB*** | 8 GOLDC  |
+| GU2s6oiVBhpgcbDuxDw7B6ab1vaULpJ*** | 8 GOLDC  |

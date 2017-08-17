@@ -121,3 +121,11 @@
 | GWk916w6TgMPjHn8ToXCZNH6UxFNjGg*** | 7 GOLDC  |
 | GQUFRgnRPd4tW4qH3y3ZcziSQ8GTVib*** | 7 GOLDC  |
 | GMgJTcaVWQWCaFDYJj4wUuBiTE9rqqP*** | 7 GOLDC  |
+| GW82UNXuVZCzSzzGzQ295eMPQbfUkyB*** | 7 GOLDC  |
+| GSUBu9oUkLNZ8FNrzD6UwND4Z9ksQ4m*** | 7 GOLDC  |
+| GRj4QTk71gKvTEgBDCiF9vgpP7iGCVY*** | 7 GOLDC  |
+| Gg4ij6daqnJUTMDJqZ4bSWZhYAJjZsk*** | 7 GOLDC  |
+| Gafi2ywXfdqjmJATYKdV3J6VpeYJhKX*** | 7 GOLDC  |
+| GXjUe1Z174jGpYeZX7Nf4SzxToXcKGA*** | 7 GOLDC  |
+| GU2s6oiVBhpgcbDuxDw7B6ab1vaULpJ*** | 7 GOLDC  |
+| GeoKEouiQM3HmAhBCTLWzTVZ66jZhob*** | 7 GOLDC  |
