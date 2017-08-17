@@ -15,7 +15,7 @@
 
 Update (August 16, 2017 GMT)
 
-Total received: 2.34876 BTC / 156583.912 GOLDC
+Total received: 1.97203 BTC / 131468.66667 GOLDC
 
 
 | GOLDC Address                      | Amount (BTC) | Amount (GOLDC) |
@@ -26,13 +26,19 @@ Total received: 2.34876 BTC / 156583.912 GOLDC
 | GZ3zcpX61oFpJ5V4Wc24Vnx37QGy87**** | 0.12286543   | 8191.02867     |
 | Gbgu5j62i3xfr7YyjxhiwJu2uqp9xp**** | 0.10000000   | 6666.66667     |
 | GWyaF1Bw3tP6ZMiDuBhdVffLHk8iEa**** | 0.10681367   | 7120.91133     |
-| GWbLgRVQHrJRFcoQBvbHyZ3gMdofvJ**** | 0.29891351   | 19927.56733    |
 | GLtv3nagNPBuYqxiGc2uo4rQsxnpMB**** | 0.04000000   | 2666.66667     |
 | GdKUERkvvJtsxpiUepSB9VBGVw3MVD**** | 0.21836515   | 14557.67667    |
 | GZ6GF1ZDaX1Tn2n2SwTPHUbbGse18x**** | 0.35000000   | 23333.33333    |
 | Gg7RjZL12vZScht5GeQ5jFssfTaLME**** | 0.42208372   | 28138.91333    |
-| GS2xt1kXDPf3J65qmaMkkC85wPvHjK**** | 0.20747306   | 13831.53733    |
-| GVcsDG79zfbasfiCPBamRxbzgKdh26**** | 0.19000000   | 12666.66667    |
 | GbVdeyqEMxX3Bx4AzSc6pajAk8t1Nt**** | 0.07651332   | 5100.888       |
+| GfXNjzkMnBT6oiJXS9MCR6Nwvayn4J**** | 0.02662995   | 1775.33        |
+| GUoewd1mbZzmUjsM9LotppdB4Zxn8i**** | 0.01000000   | 666.66667      |
+| GJbw2JT5DGvUjotQdenWXKmVSDN4et**** | 0.03550660   | 2367.10667     |
+| GdTwPrrqsnDWYiL4Tdpw4WUHWHa9VW**** | 0.04021730   | 2681.15333     |
+| GNR32Gx5q1VbYRoutprt5NMs2Rp7eo**** | 0.05261928   | 3507.952       |
+| GSFvBBCz9b7LwigY753Pz4wpJBUoXQ**** | 0.02206182   | 1470.788       |
+| GTkvyj2pz2h7d5yQKEc1A9KbYom6pj**** | 0.01828868   | 1219.24533     |
+| GKEixQNc4phgp4DmLYj1fvaTjUHB9u**** | 0.06433509   | 4289.006       |
+| GdKUERkvvJtsxpiUepSB9VBGVw3MVD**** | 0.05000000   | 3333.33333     |
 
 Thanks to all who participate! The ICO is still ongoing.

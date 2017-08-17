@@ -129,3 +129,4 @@
 | GXjUe1Z174jGpYeZX7Nf4SzxToXcKGA*** | 7 GOLDC  |
 | GU2s6oiVBhpgcbDuxDw7B6ab1vaULpJ*** | 7 GOLDC  |
 | GeoKEouiQM3HmAhBCTLWzTVZ66jZhob*** | 7 GOLDC  |
+| GTZdTVoV7JaqHSR5c2EWxdVjazyFoLz*** | 7 GOLDC  |
