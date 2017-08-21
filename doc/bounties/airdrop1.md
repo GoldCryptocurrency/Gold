@@ -130,3 +130,10 @@
 | GU2s6oiVBhpgcbDuxDw7B6ab1vaULpJ*** | 7 GOLDC  |
 | GeoKEouiQM3HmAhBCTLWzTVZ66jZhob*** | 7 GOLDC  |
 | GTZdTVoV7JaqHSR5c2EWxdVjazyFoLz*** | 7 GOLDC  |
+|	GerPBwCzcXKBnQhuBKjB245P2yU1FKW*** | 7 GOLDC  |
+|	GbkSXntTuvn5mQ4zJ9KJcPQJu5PNMUL*** | 7 GOLDC  |
+|	GMnyGMMYt4P9b4MKzvMmG7nJ8ccaCiU*** | 7 GOLDC  |
+|	GQGoas8yH6KQDNbZyFstYBTSDSmG7ZF*** | 7 GOLDC  |
+|	GHvT3TdXitbgfBVHsPLvHZvudjjzVJT*** | 7 GOLDC  |3
+|	GU2n4cVgxbh2Gddi7i38otEFWajhCjV*** | 7 GOLDC  |
+|	Ge5FC6wM3Qsjma5qEngab4xe1aD9wQa*** | 7 GOLDC  |
