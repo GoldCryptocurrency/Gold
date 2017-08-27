@@ -1,6 +1,6 @@
 ## Initial Coin Offering
 
-(available only on Aug 13, 2017 to Aug 27, 2017)
+(available only on Aug 13, 2017 to Aug 30, 2017)
 
 1. ICO price: 0.00001500 BTC / 1 GOLDC
 2. Price on exchanges: starts at 0.00002100 BTC / 1 GOLDC (available on Aug 29, 2017)
