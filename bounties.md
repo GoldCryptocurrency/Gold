@@ -22,10 +22,10 @@ contact: support@goldcryptocurrency.org
 
 	| GOLDC Address                       | Name            | Amount     |
 	| ----------------------------------- |:---------------:| ----------:|
-	| GVWqQbUEjbCQcV87fGqc4NhZsFbNZXPaCU  | Lpool.name      | 300 GOLDC  |
-	| GLWezHzwAmaSUntps2BHZV6bHtvkJN3vzp  | SteamOctanePool | 300 GOLDC  |
+	| GVWqQbUEjbCQcV87fGqc4NhZsFbNZX****  | Lpool.name      | 300 GOLDC  |
+	| GLWezHzwAmaSUntps2BHZV6bHtvkJN****  | SteamOctanePool | 300 GOLDC  |
+	| GUg97VQoGTfJC4xuAKkLjmgwJ4Myp5****  | Altminer.net    | 300 GOLDC  |
 	| (Reserved)                          | Pickaxe.online  | 300 GOLDC  |
-	| (Reserved)                          | Altminer.net    | 300 GOLDC  |
 
 
 
